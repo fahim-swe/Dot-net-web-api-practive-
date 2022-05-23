@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdPAwpP9p8NJgoRE6uQmTkCk5dfQiWCozyz/Y5p7YhFte84aJfVt1ycl/owmL3vvgvymPuXqz/io1HjbaFchbQ==",
+  "success": true,
+  "projectFilePath": "/home/fahim/Documents/Dot net web API/Task-2/Task/Task.csproj",
+  "expectedPackageFiles": [
+    "/home/fahim/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/fahim/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/fahim/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/fahim/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/fahim/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/fahim/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
